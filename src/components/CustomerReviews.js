@@ -1,5 +1,5 @@
 import React from 'react';
-import Customer1Image from '../assets/r1.jpeg'; // Import your customer photos
+import Customer1Image from '../assets/r1.png'; // Import your customer photos
 import Customer2Image from '../assets/r2.jpeg';
 import Customer3Image from '../assets/r3.jpeg';
 import Customer4Image from '../assets/r4.jpeg';

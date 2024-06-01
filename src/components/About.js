@@ -16,7 +16,7 @@ const About = () => {
     <section id="about" className="py-16 bg-gray-100">
       <div className="container mx-auto text-center">
         <animated.h2 className="text-4xl font-bold text-gray-800 mb-8" style={{ ...fade, ...(window.innerWidth < 768 ? mobilePadding : desktopPadding) }}>
-          About Sticky Inches
+          About Sticky Inches (est. 2022)
         </animated.h2>
         <div className="max-w-3xl mx-auto">
           <animated.p className="text-lg text-gray-700 leading-relaxed mb-6" style={{ ...fade, ...(window.innerWidth < 768 ? mobilePadding : desktopPadding) }}>
